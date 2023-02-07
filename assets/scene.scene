@@ -173,7 +173,7 @@
     "_priority": 0,
     "_fov": 45,
     "_fovAxis": 0,
-    "_orthoHeight": 328.2511210762332,
+    "_orthoHeight": 326.6367713004484,
     "_near": 0,
     "_far": 1000,
     "_color": {
@@ -1568,6 +1568,10 @@
     "myFab": {
       "__uuid__": "dc2b933f-e1d3-4f0f-8421-0911edd30c9b",
       "__expectedType__": "cc.Prefab"
+    },
+    "jsonFile": {
+      "__uuid__": "90602e3b-bfa5-4352-9422-ddf4c89738f4",
+      "__expectedType__": "cc.JsonAsset"
     },
     "_id": "a2FysyYs5KWID73dai0KBd"
   },
